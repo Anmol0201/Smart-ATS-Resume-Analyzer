@@ -1,6 +1,5 @@
 # Smart-ATS-Resume-Analyzer
 
-# Smart ATS Resume Analyzer
 
 ### Problem Statement
 
